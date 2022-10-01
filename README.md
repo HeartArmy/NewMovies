@@ -1,8 +1,8 @@
-# Android Project 3 - *MovieBrowser*
+# Android Project 3 - *NewMovies*
 
 Submitted by: **Mohammed Arham**
 
-**MovieBrowser** is a movie browsing app that allows users to browse movies currently playing in theaters.
+**NewMovies** is a movie browsing app that allows users to browse movies currently playing in theaters.
 
 Time spent: **15** hours spent in total
 
