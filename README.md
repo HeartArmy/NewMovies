@@ -28,6 +28,11 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/HeartArmy/NewMovies/blob/main/AppWalkthrough.gif' title='Video Walkthrough' width='300px' alt='Video Walkthrough' />
 
+## Glide Code 
+
+<img src='' title='Image of glide implementation' width='300px' alt='Image of glide implementation' />
+
+
 
 ## License
 
