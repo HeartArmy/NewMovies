@@ -30,7 +30,7 @@ Here's a walkthrough of implemented user stories:
 
 ## Glide Code 
 
-<img src='' title='Image of glide implementation' width='300px' alt='Image of glide implementation' />
+<img src='https://github.com/HeartArmy/NewMovies/blob/main/glideCode.jpg' title='Image of glide implementation' width='1000px' alt='Image of glide implementation' />
 
 
 
