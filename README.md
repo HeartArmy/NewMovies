@@ -26,7 +26,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/HeartArmy/NewMovies/blob/main/AppWalkthrough.gif' title='Video Walkthrough' width='300px' alt='Video Walkthrough' />
+<img src='https://gfycat.com/thirdjealousdaddylonglegs' title='Video Walkthrough' width='300px' alt='Video Walkthrough' />
 
 ## Glide Code 
 
